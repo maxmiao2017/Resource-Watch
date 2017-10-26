@@ -1,0 +1,17 @@
+pandas
+numpy
+fiona
+geopandas
+rasterio
+boto3
+boto
+requests
+urllib
+ee
+folium
+altair
+netCDF4
+xarray
+rasterstats
+matplotlib
+json
